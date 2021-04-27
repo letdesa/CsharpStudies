@@ -1,0 +1,13 @@
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\obj\Debug\netcoreapp3.1\SimpleStatisticalCalculator.csprojAssemblyReference.cache
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\obj\Debug\netcoreapp3.1\SimpleStatisticalCalculator.AssemblyInfoInputs.cache
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\obj\Debug\netcoreapp3.1\SimpleStatisticalCalculator.AssemblyInfo.cs
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\obj\Debug\netcoreapp3.1\SimpleStatisticalCalculator.csproj.CoreCompileInputs.cache
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\bin\Debug\netcoreapp3.1\SimpleStatisticalCalculator.exe
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\bin\Debug\netcoreapp3.1\SimpleStatisticalCalculator.deps.json
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\bin\Debug\netcoreapp3.1\SimpleStatisticalCalculator.runtimeconfig.json
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\bin\Debug\netcoreapp3.1\SimpleStatisticalCalculator.runtimeconfig.dev.json
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\bin\Debug\netcoreapp3.1\SimpleStatisticalCalculator.dll
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\bin\Debug\netcoreapp3.1\SimpleStatisticalCalculator.pdb
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\obj\Debug\netcoreapp3.1\SimpleStatisticalCalculator.dll
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\obj\Debug\netcoreapp3.1\SimpleStatisticalCalculator.pdb
+C:\Users\letic\source\repos\SimpleStatisticalCalculator\obj\Debug\netcoreapp3.1\SimpleStatisticalCalculator.genruntimeconfig.cache
